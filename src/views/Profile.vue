@@ -71,7 +71,7 @@ export default {
         },
         {
           id: 4,
-          namaTugas: "Tidur 2 Jam Rasa 12 Jam",
+          namaTugas: "Tidur",
           isDone: false,
         },
       ],
